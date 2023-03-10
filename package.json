@@ -11,8 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^4.11.0",
     "apollo-server": "^3.12.0",
     "graphql": "^16.6.0",
     "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "prisma": "^4.11.0"
   }
 }
